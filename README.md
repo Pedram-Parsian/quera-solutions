@@ -9,7 +9,7 @@ Each question has it's own directory, which is the question_id,containing the qu
 Feel free to suggest better solutions for these questions, I'm always looking for a more *pythonic* way of solving them :wink:.
 
 ## Requirements
-Most of questions are solved via standard library and usually there is no need to install a third-party package; But if one is needed, there will be in a `requirements.txt` file beside the solution.
+Most questions are solved with standard library and usually there is no need to install a third-party package; But if one is needed, there will be in a `requirements.txt` file beside the solution.
 
 ## Contributing
 This repository is intended to contain *my* solutions to quera questions, but any suggestion for more pythonic way of solving questions are welcome.
